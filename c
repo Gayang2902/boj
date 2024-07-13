@@ -1,1 +1,0 @@
-/home/oneorz/code/c/baekjoon
