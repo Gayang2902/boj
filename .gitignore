@@ -165,4 +165,11 @@ cython_debug/
 test
 test.py
 test.c
-*[^.]
+
+# ignore non-extension files(ex. binary files)
+#1 ignore all
+*
+#2 unignore all with extensions
+!*.*
+#3 unignore all directories
+!*/
